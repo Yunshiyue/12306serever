@@ -1,0 +1,10 @@
+﻿  Generate moc_predefs.h
+  Moc'ing server.h...
+  Moc'ing serverthread.h...
+  main.cpp
+  server.cpp
+  serverthread.cpp
+D:\6.C++\12306server\12306server\serverthread.cpp(264,22): warning C4189: “finished_search”: 局部变量已初始化但不引用
+  moc_server.cpp
+  moc_serverthread.cpp
+  12306server.vcxproj -> D:\6.C++\12306server\12306server\release\12306server.exe

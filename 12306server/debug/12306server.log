@@ -1,0 +1,3 @@
+﻿  serverthread.cpp
+D:\6.C++\12306server\12306server\serverthread.cpp(264,22): warning C4189: “finished_search”: 局部变量已初始化但不引用
+  12306server.vcxproj -> D:\6.C++\12306server\12306server\debug\12306server.exe
