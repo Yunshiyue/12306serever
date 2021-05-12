@@ -9,7 +9,7 @@ Server::Server(QObject *parent) : QTcpServer(parent)
     db.setPort(5433);
     db.setDatabaseName("12306");
     db.setUserName("postgres");
-    db.setPassword("991019");
+    db.setPassword("******");
     if (!db.open())
         qWarning() << "Failed to connect to root postsql admin";
 
